@@ -1,0 +1,33 @@
+print("Hello World")
+print("Hallo Welt")
+print("Ahoj svet")
+
+print("  *  *  ")
+print("   <    ")
+print(" \..../ ")
+
+
+print("    /\     ")
+print("   /  \    ")
+print("  /____\   ")
+print("  |    |   ")
+print("  |____|   ")
+
+print("***************")
+print("*             *")
+print("*    PAŤKA    *")
+print("*             *")
+print("***************")
+
+
+
+
+name =  input("zadaj meno:")
+age = input("zadaj vek:")
+city = input("odkial si:")
+food = input("ake je tvoje oblubene jedlo:")
+
+print ("ahoj", name)
+print  ("mas" ,age, "rokov")
+print  ("si z mesta" ,city)
+print ("tvoje oblubene jedlo je",food)
